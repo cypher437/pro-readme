@@ -57,8 +57,8 @@
 
 <p>
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-C01001.svg?logo=git&logoColor=white"></a>
-    <a href="#"><img alt="Jira" src="https://img.shields.io/badge/Git-F04533.svg?logo=git&logoColor=white"></a>
-    <a href="#"><img alt="Confluence" src="https://img.shields.io/badge/Git-F04433.svg?logo=git&logoColor=white"></a>
+    <a href="#"><img alt="Jira" src="https://img.shields.io/badge/Jira-F04533.svg?logo=jira&logoColor=white"></a>
+    <a href="#"><img alt="Confluence" src="https://img.shields.io/badge/Confluence-F04433.svg?logo=Confluence&logoColor=white"></a>
     <a href="#"><img alt="Webpack" src="https://img.shields.io/badge/Webpack-00FFd7.svg?logo=webpack&logoColor=white"></a>
     <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe-FF00FF.svg?logo=adobe&logoColor=white"></a>
     <a href="#"><img alt="Codepen" src="https://img.shields.io/badge/Codepen-000000.svg?logo=codepen&logoColor=white"></a>
@@ -68,7 +68,7 @@
     <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6B37?logo=postman&logoColor=white"></a>
     <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets-14F852.svg?logo=google%20sheets&logoColor=white"></a>
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-00F8F7.svg?logo=visual-studio-code&logoColor=white"></a>
-    <a href="#"><img alt="Visual Studio 2022" src="https://img.shields.io/badge/Visual%20Studio%20Code-FF78A7.svg?logo=visual-studio-code&logoColor=white"></a>
+    <a href="#"><img alt="Visual Studio 2022" src="https://img.shields.io/badge/Visual%20Studio%202022-FF78A7.svg?logo=visual-studio&logoColor=white"></a>
     <a href="#"><img alt="Unreal Engine 5" src="https://img.shields.io/badge/-Unreal%20Engine%205-00D56F?logo=unreal-engine&logoColor=white"></a>
     <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FBAA16?logo=stack-overflow&logoColor=white"></a>
 </p>
@@ -78,6 +78,3 @@
 <p>
     <a href="mailto:davidcraiggoodman@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-B31F25.svg?logo=gmail&logoColor=white">
 </p>
-
-
-
